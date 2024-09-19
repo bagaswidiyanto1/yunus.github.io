@@ -1,0 +1,87 @@
+@media only screen and (min-width: 576px)  {
+    .container-1558 {
+        padding-left: var(--bs-gutter-x, 4.75rem);
+    }
+
+    .average .flex-custom .card-1 {
+        width: 50%;
+    }
+
+    .average .flex-custom .card-2 {
+        width: 50%;
+        margin-left: -3.5rem;
+    }
+
+    .average .flex-custom .card-2 .card-average-order {
+        width: 20rem;
+    }
+
+    .pricing-model .row-absolute {
+        position: absolute;
+        width: 100%;
+        top: 0;
+        left: 0;
+    }
+
+    .testimonials .swiper-button-prev {
+        left: -10%;
+    }
+
+    .testimonials .swiper-button-next {
+        right: -10%;
+    }
+}
+
+@media only screen and (min-width: 768px)  {
+    .container-1558 {
+        padding-left: var(--bs-gutter-x, 4.75rem);
+    }
+
+    .hero-header .img img {
+        max-height: 13rem;
+    }
+
+    .average .flex-custom .card-1 {
+        width: 40%;
+    }
+
+}
+
+
+@media only screen and (min-width: 992px)  {
+    .container-1558 {
+        padding-left: var(--bs-gutter-x, 6.75rem);
+    }
+
+    .hero-header {
+        padding-top: 10.5rem;
+    }
+
+    .hero-header .img img {
+        max-height: 32rem;
+    }
+
+
+    .average .flex-custom .card-1 {
+        width: 50%;
+    }
+
+
+    .testimonials .card-box .card-box-image .card-image {
+        padding-bottom: 90%;
+    }
+}
+
+
+@media only screen and (min-width: 1200px)  {
+    .average .flex-custom .card-1 {
+        width: 50%;
+    }
+}
+
+@media only screen and (min-width: 1400px)  {
+    .average .flex-custom .card-1 {
+        width: 40%;
+    }
+}
+
